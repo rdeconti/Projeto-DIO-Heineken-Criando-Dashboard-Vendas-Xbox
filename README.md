@@ -1,5 +1,7 @@
 # Projeto-DIO-Heineken-Criando-Dashboard-Vendas-Xbox
 
+## Não tenho EXCEL disponível ...
+
 :spiral_calendar: Atualizado em 11 de Fevereiro de 2025 :heart:
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/under_construction.gif" />
@@ -23,4 +25,10 @@ Este projeto foi proposto pela Digital Innovation One
 - Excel/CSV
 
 ## Solução do desafio
-- ....
+- Analisando os arquivos disponibilizados durante as aulas temos
+
+## xbox_base_dados
+- Tem 4 planilhas: assets, imagens, bases e calculos
+
+## xbox_dashboard_finalizado
+- Responde as perguntas do desafio e análises gráficas
