@@ -20,7 +20,7 @@ Este projeto foi proposto pela Digital Innovation One
 - O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
 
 ## Ferramentas utilizadas
-- [MySql Workbench](https://www.mysql.com/products/workbench/)
+- Excel/CSV
 
 ## Solução do desafio
 - ....
